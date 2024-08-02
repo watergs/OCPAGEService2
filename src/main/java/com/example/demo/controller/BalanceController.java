@@ -8,7 +8,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/dge/balances")
+@RequestMapping("/age/balances")
 public class BalanceController {
 
     @Autowired
